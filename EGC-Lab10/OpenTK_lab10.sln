@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenTK_winforms_z01", "OpenTK_winforms_z01\OpenTK_winforms_z01.csproj", "{FEB19E63-4124-4532-868D-7C9551166FD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenTK_winforms_z03", "OpenTK_winforms_z03\OpenTK_winforms_z03.csproj", "{540F1C1E-8718-463A-A881-8DD1B93891A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEB19E63-4124-4532-868D-7C9551166FD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB19E63-4124-4532-868D-7C9551166FD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB19E63-4124-4532-868D-7C9551166FD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB19E63-4124-4532-868D-7C9551166FD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{540F1C1E-8718-463A-A881-8DD1B93891A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540F1C1E-8718-463A-A881-8DD1B93891A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540F1C1E-8718-463A-A881-8DD1B93891A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540F1C1E-8718-463A-A881-8DD1B93891A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05DEE7A5-D470-47B9-BB4F-0F848FB60713}
+	EndGlobalSection
+EndGlobal
